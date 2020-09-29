@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/preyansh98/437/jobcreator/src/main.c
+stdio.h
+-
+stdlib.h
+-
+config.h
+/home/preyansh98/437/jobcreator/src/config.h
+input.h
+/home/preyansh98/437/jobcreator/src/input.h
+job.h
+/home/preyansh98/437/jobcreator/src/job.h
+
+include/config.h
+
+include/input.h
+
+include/job.h
+
